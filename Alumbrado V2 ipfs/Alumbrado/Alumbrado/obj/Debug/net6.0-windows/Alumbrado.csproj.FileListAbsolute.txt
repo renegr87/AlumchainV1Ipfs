@@ -1,0 +1,65 @@
+D:\Devel\Rene\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.exe
+D:\Devel\Rene\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.deps.json
+D:\Devel\Rene\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.runtimeconfig.json
+D:\Devel\Rene\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.dll
+D:\Devel\Rene\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.pdb
+D:\Devel\Rene\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.csproj.AssemblyReference.cache
+D:\Devel\Rene\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.Main.resources
+D:\Devel\Rene\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.csproj.GenerateResource.cache
+D:\Devel\Rene\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devel\Rene\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.AssemblyInfoInputs.cache
+D:\Devel\Rene\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.AssemblyInfo.cs
+D:\Devel\Rene\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.csproj.CoreCompileInputs.cache
+D:\Devel\Rene\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.dll
+D:\Devel\Rene\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\refint\Alumbrado.dll
+D:\Devel\Rene\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.pdb
+D:\Devel\Rene\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.genruntimeconfig.cache
+D:\Devel\Rene\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\ref\Alumbrado.dll
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.exe
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.deps.json
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.runtimeconfig.json
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.dll
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.pdb
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.Main.resources
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.csproj.GenerateResource.cache
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.AssemblyInfoInputs.cache
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.AssemblyInfo.cs
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.csproj.CoreCompileInputs.cache
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.dll
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\refint\Alumbrado.dll
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.pdb
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.genruntimeconfig.cache
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\ref\Alumbrado.dll
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V1 OK\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.exe
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V1 OK\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.deps.json
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V1 OK\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.runtimeconfig.json
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V1 OK\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.dll
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V1 OK\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.pdb
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V1 OK\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.Main.resources
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V1 OK\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.csproj.GenerateResource.cache
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V1 OK\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V1 OK\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.AssemblyInfoInputs.cache
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V1 OK\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.AssemblyInfo.cs
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V1 OK\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.csproj.CoreCompileInputs.cache
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V1 OK\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.dll
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V1 OK\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\refint\Alumbrado.dll
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V1 OK\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.pdb
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V1 OK\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.genruntimeconfig.cache
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V1 OK\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\ref\Alumbrado.dll
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V2 ipfs\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.exe
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V2 ipfs\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.deps.json
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V2 ipfs\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.runtimeconfig.json
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V2 ipfs\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.dll
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V2 ipfs\Alumbrado\Alumbrado\bin\Debug\net6.0-windows\Alumbrado.pdb
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V2 ipfs\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.Main.resources
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V2 ipfs\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.csproj.GenerateResource.cache
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V2 ipfs\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V2 ipfs\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.AssemblyInfoInputs.cache
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V2 ipfs\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.AssemblyInfo.cs
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V2 ipfs\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.csproj.CoreCompileInputs.cache
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V2 ipfs\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.dll
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V2 ipfs\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\refint\Alumbrado.dll
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V2 ipfs\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.pdb
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V2 ipfs\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\Alumbrado.genruntimeconfig.cache
+C:\Users\rene_\OneDrive\Documentos\INEEL\Alumbrado V2 ipfs\Alumbrado\Alumbrado\obj\Debug\net6.0-windows\ref\Alumbrado.dll

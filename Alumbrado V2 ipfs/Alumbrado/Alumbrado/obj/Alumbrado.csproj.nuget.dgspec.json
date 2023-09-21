@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rene_\\OneDrive\\Documentos\\INEEL\\Alumbrado V2 ipfs\\Alumbrado\\Alumbrado\\Alumbrado.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rene_\\OneDrive\\Documentos\\INEEL\\Alumbrado V2 ipfs\\Alumbrado\\Alumbrado\\Alumbrado.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rene_\\OneDrive\\Documentos\\INEEL\\Alumbrado V2 ipfs\\Alumbrado\\Alumbrado\\Alumbrado.csproj",
+        "projectName": "Alumbrado",
+        "projectPath": "C:\\Users\\rene_\\OneDrive\\Documentos\\INEEL\\Alumbrado V2 ipfs\\Alumbrado\\Alumbrado\\Alumbrado.csproj",
+        "packagesPath": "C:\\Users\\rene_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rene_\\OneDrive\\Documentos\\INEEL\\Alumbrado V2 ipfs\\Alumbrado\\Alumbrado\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rene_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "JsonRPC": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Macross.Json.Extensions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Nethereum.Accounts": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Nethereum.Autogen.ContractApi": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "Nethereum.Contracts": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Nethereum.Fx": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Nethereum.Generators": {
+              "target": "Package",
+              "version": "[4.12.0, )"
+            },
+            "Nethereum.Hex": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Nethereum.JsonRpc.Client": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Nethereum.JsonRpc.RpcClient": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Nethereum.JsonRpc.WebSocketClient": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Nethereum.KeyStore": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Nethereum.Metamask": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Nethereum.Metamask.Blazor": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Nethereum.RLP": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Nethereum.RPC": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Nethereum.RPC.Reactive": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Nethereum.Signer": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Nethereum.StandardNonFungibleTokenERC721": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Nethereum.StandardTokenEIP20": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Nethereum.Uport": {
+              "target": "Package",
+              "version": "[0.0.20, )"
+            },
+            "Nethereum.Util": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Nethereum.Web3": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "Nethereum.Web3Lite": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "System.Threading.Tasks": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Threading.Tasks.Extensions": {
+              "target": "Package",
+              "version": "[4.5.4, )"
+            },
+            "Utf8JsonStreamReader": {
+              "target": "Package",
+              "version": "[0.16.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="JsonRPC" Version="1.0.1" />
+    <PackageReference Include="Macross.Json.Extensions" Version="3.0.0" />
+    <PackageReference Include="Nethereum.Accounts" Version="4.16.0" />
+    <PackageReference Include="Nethereum.Autogen.ContractApi" Version="4.11.0" />
+    <PackageReference Include="Nethereum.Contracts" Version="4.16.0" />
+    <PackageReference Include="Nethereum.Fx" Version="4.16.0" />
+    <PackageReference Include="Nethereum.Generators" Version="4.12.0" />
+    <PackageReference Include="Nethereum.Hex" Version="4.16.0" />
+    <PackageReference Include="Nethereum.JsonRpc.Client" Version="4.16.0" />
+    <PackageReference Include="Nethereum.JsonRpc.RpcClient" Version="4.16.0" />
+    <PackageReference Include="Nethereum.JsonRpc.WebSocketClient" Version="4.16.0" />
+    <PackageReference Include="Nethereum.KeyStore" Version="4.16.0" />
+    <PackageReference Include="Nethereum.Metamask" Version="4.16.0" />
+    <PackageReference Include="Nethereum.Metamask.Blazor" Version="4.16.0" />
+    <PackageReference Include="Nethereum.RLP" Version="4.16.0" />
+    <PackageReference Include="Nethereum.RPC" Version="4.16.0" />
+    <PackageReference Include="Nethereum.RPC.Reactive" Version="4.16.0" />
+    <PackageReference Include="Nethereum.Signer" Version="4.16.0" />
+    <PackageReference Include="Nethereum.StandardNonFungibleTokenERC721" Version="4.16.0" />
+    <PackageReference Include="Nethereum.StandardTokenEIP20" Version="4.16.0" />
+    <PackageReference Include="Nethereum.Uport" Version="0.0.20" />
+    <PackageReference Include="Nethereum.Util" Version="4.16.0" />
+    <PackageReference Include="Nethereum.Web3" Version="4.16.0" />
+    <PackageReference Include="Nethereum.Web3Lite" Version="4.16.0" />
+    <PackageReference Include="System.Threading.Tasks" Version="4.3.0" />
+    <PackageReference Include="System.Threading.Tasks.Extensions" Version="4.5.4" />
+    <PackageReference Include="Utf8JsonStreamReader" Version="0.16.2" />
+  </ItemGroup>
+
+</Project>

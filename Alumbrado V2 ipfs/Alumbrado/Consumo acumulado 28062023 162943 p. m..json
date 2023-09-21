@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "626665",
+    "Consumo": 0.0,
+    "Fecha": "2023-06-28T16:29:22.8482134-06:00",
+    "TipoMedidor": 3,
+    "Notas": "No se pudo conectar a la IP 200.4.5.9:1000"
+  },
+  {
+    "Id": "6265B5",
+    "Consumo": 0.0,
+    "Fecha": "2023-06-28T16:29:43.8880861-06:00",
+    "TipoMedidor": 3,
+    "Notas": "No se pudo conectar a la IP 200.4.5.9:1000"
+  }
+]
